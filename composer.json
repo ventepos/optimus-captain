@@ -1,10 +1,10 @@
 {
     "name": "optimus/captain",
     "license": "MIT",
-	"authors": {
-		"name": "Patrick McCarren",
-		"email": "patrick@mmsc.io"
-	},
+    "authors": {
+        "name": "Patrick McCarren",
+        "email": "patrick@mmsc.io"
+    },
     "autoload": {
         "psr-4": {
             "Optimus\\Captain\\": "src/"
